@@ -56,7 +56,9 @@ This will automatically generate 1,000 synthetic patient records and populate yo
 
 ### Step 4: View Analytics
 1.Open Hospital_Dashboard.pbix in Power BI.
+
 2.Click Refresh to load the data from your local database.
+
 3.Interact with the dashboard!
 
 ### 📊 Business Impact
