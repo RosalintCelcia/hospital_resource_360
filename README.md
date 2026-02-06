@@ -36,7 +36,7 @@ It features **AI-driven forecasting** to predict patient admission trends for th
 
 ### Step 1: Clone the Repo
 ```bash
-git clone [https://github.com/YOUR_USERNAME/hospital-resource-360.git](https://github.com/YOUR_USERNAME/hospital-resource-360.git)
+git clone [https://github.com/RosalintCelcia/hospital-resource-360.git](https://github.com/RosalintCelcia/hospital-resource-360.git)
 cd hospital-resource-360
 ```
 
