@@ -1,7 +1,7 @@
 # 🏥 Hospital Resource 360: Intelligent Optimization Dashboard
 
 ### 🚀 A Full-Stack Analytics Solution for Healthcare Operations
-**Winner/Participant:** HCL Guvi Career Carnival Hackathon 2026
+**Participant:** HCL Guvi Career Carnival Hackathon 2026
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Tech](https://img.shields.io/badge/Stack-Python%20|%20MySQL%20|%20PowerBI-blue)
@@ -12,7 +12,7 @@ Hospital Resource 360 is a data-driven analytics platform designed to solve oper
 It features **AI-driven forecasting** to predict patient admission trends for the next 14 days, allowing administrators to move from reactive to proactive staffing.
 
 ## 📸 Dashboard Screenshots
-*(Upload your "Hospital Resource 360" dashboard screenshot here)*
+*<img width="1333" height="778" alt="Image" src="https://github.com/user-attachments/assets/d61e0d70-4c69-4ff9-8e8e-5cd85e195d70" />*
 
 ## ✨ Key Features
 * **🤖 AI Predictive Analytics:** Forecasts future patient volume using time-series modeling to prevent overcrowding.
